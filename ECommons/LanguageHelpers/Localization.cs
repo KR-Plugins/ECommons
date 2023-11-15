@@ -83,7 +83,7 @@ public static class Localization
         ClientLanguage.Japanese => "Japanese",
         ClientLanguage.French => "French",
         ClientLanguage.German => "German",
-        (ClientLanguage)4 => "Chinese",
+        ClientLanguage.Korean => "Korean",
         _ => "English"
     };
 
